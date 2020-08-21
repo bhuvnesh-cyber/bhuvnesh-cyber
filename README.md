@@ -1,7 +1,6 @@
 ### Hi there, I'm Bhuvnesh Sharma - aka [bhuvnesh-cyber][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](github.com/bhuvnesh-cyber)
-original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+![virtual-reality](https://user-images.githubusercontent.com/57914889/90883156-e69a6b00-e3ca-11ea-9d1e-97d6394d4cf5.gif)
 
 ## I'm a Learner, Healer, Analyst and explorer!
 
