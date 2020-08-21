@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhuvnesh Sharma - aka [bhuvnesh-cyber][website] 👋
 
-![virtual-reality](https://user-images.githubusercontent.com/57914889/90883156-e69a6b00-e3ca-11ea-9d1e-97d6394d4cf5.gif)
+![dribbble_cut2](https://user-images.githubusercontent.com/57914889/90883316-30835100-e3cb-11ea-81e0-78e81e687ff5.gif)
 
 ## I'm a Learner, Healer, Analyst and explorer!
 
