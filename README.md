@@ -27,7 +27,7 @@
 
 
 [website]: https://bhuvnesh-cyber.github.io/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/bhuvnesh-sharma94/
 
 
 
