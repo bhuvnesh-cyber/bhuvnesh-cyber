@@ -11,8 +11,13 @@ original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 - 🥅 2020 Goals: Find an oppourtinity to get deeper into data science
 - ⚡ Fun fact: I love to dance and play GTA
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<p align="center">
+<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a><br/> <br/>
+ <img src="https://github.com/bhuvnesh-cyber/bhuvnesh-cyber/blob/master/programer.gif" alt="Face" width="200" height="200" style="float:left">
+  <br>
+  <b> Hi it's Bhuvnesh here 👋</b>
+  
+![](https://github-readme-stats.vercel.app/api?username=bhuvnesh-cyber&show_icons=true&hide_border=true)
 
 ### Connect with me:
 
