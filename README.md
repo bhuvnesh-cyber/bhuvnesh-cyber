@@ -2,12 +2,12 @@
 
 ![virtual-reality](https://user-images.githubusercontent.com/57914889/90883156-e69a6b00-e3ca-11ea-9d1e-97d6394d4cf5.gif)
 
-## I'm a Gamer, Analyst and explorer!
+## I'm a Analyst and explorer!
 
 - 🔭 I’m currently working on a lot of Data Science Stuff
 - 🌱 I’m currently exploring everything that comes in my way🤣
 - 👯 I’m looking to collaborate with other data science enthusiasts
-- 🥅 2020 Goals: Find an oppourtinity to get deeper into data science
+- 🥅 2022 Goals: Find an oppourtinity to get deeper into data science
 - ⚡ Fun fact: I love to dance and play GTA
 
 <p align="center">
